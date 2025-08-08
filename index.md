@@ -3,13 +3,13 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "TBC"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "FIXME"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Physics Laboratory 2"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "2nd floor, Department of Physics and Astronomy, University College London"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 flag_in_person: "true"    # Provide "true" to include text in the general information, stressing the workshop is in-person attendance only.
 country: "England"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "51.52"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "0.13"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "51.525281"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-0.133665"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Sept 25-26, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30 - 17:00 BST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: "2025-09-25"      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
